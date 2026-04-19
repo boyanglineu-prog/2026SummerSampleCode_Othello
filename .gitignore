@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Processing / IDE files
+# (Excludes temporary build files)
+bin/
+out/
+
+# Local data / Scores
+# (Only include this if you don't want to track game history)
+scores.txt
