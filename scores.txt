@@ -1,0 +1,3 @@
+Total number of games recorded: 7
+Total number of wins by Black: 1
+Total number of wins by White: 6
